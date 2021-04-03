@@ -1,1 +1,167 @@
-1
+#EXTM3U
+#EXTINF:-1 ,00.BTV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 ,00.Ekattor
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=c8e094c979c97b08c06e4d29dcf8498b7a14f26a-73b566704f5db1b847339441ca0dae34-1617448035-1617437235
+#EXTINF:-1 ,01.ATN Bangla
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 ,02.Channel i
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=7fa3a63954646f96171ea23c6c5b7111186e3bc9-b98fbe84c737231bf804e0016b9641e7-1617448085-1617437285
+#EXTINF:-1 ,03.ETV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
+#EXTINF:-1 ,04.Bangla Vision
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 ,04.NTV
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=2a980b60895749ba36d4bad7d8f1af1f21eba311-2542bd2e66ef1e126e8661913a466270-1617448106-1617437306
+#EXTINF:-1 ,05.RTV
+http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 ,06.Masranga
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 ,06.Masranga 2
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+#EXTINF:-1 ,07.SA TV
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:-1 ,08.Boyshakhi
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 ,08.GTV
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=44c96732daa82923ddf51bae172bbf30f0301f1d-b73c90b12b724c1b75d86d3944274549-1617448151-1617437351
+#EXTINF:-1 ,09.MY TV
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=517488d22587e6672fd2229ae32d3e34ca30b4bb-2d11a21cd87ffeb53a1cc8263d19f48f-1617448191-1617437391
+#EXTINF:-1 ,10.T Spots
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=9d61d6251f0c4cb8b75333f3d87bee083ae359c6-c4d132ed2ad37f5cbd56168d8a9d0977-1617448237-1617437437
+#EXTINF:-1 ,10.T Spots
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
+#EXTINF:-1 ,11.Channel 9
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 ,12.Anando
+http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=3820cdb28517605f8c092b331d00d046bd9d2c1a-68fe1a955cab02edf14b1422bfd17b57-1617448283-1617437483
+#EXTINF:-1 ,13.BIJOY TV HD [BD]
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8?token=01025423e07903b5d200aa234a2a8a3365555a5d-0f2be250223906364905cf46c9e9ae1e-1617448333-1617437533
+#EXTINF:-1 ,14.Bangla tv
+https://rhridoy136.shortcm.li/banglatv.m3u8
+#EXTINF:-1 ,14.Mohona
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 ,15.Ekattor
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
+#EXTINF:-1 ,16.My Cenama
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:-1 ,17.News 24
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 ,18.Jumuna TV
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,19.Channel 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1 ,20.DBC News
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 ,21.Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 ,21.ATN News
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 ,22.Star Jolsha HD
+http://43.230.123.21:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,23.Colors Bangla e2
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,24.Jolsha Movies e2
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,24.Jolsha Movies HD
+http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,24.Jolsha Movies ftpbd
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 ,24.Jolsha Movies amrbd
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=56994549a1922acd78d71f94436ac5de3f1ff935-49f4930082f077ca6d1cef9344206c52-1617216062-1617205262
+#EXTINF:-1 ,25.Zee Bangla hd
+http://43.230.123.21:8080/live/zee-bangla.m3u8
+#EXTINF:-1 ,25.Zee Bangla f
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 ,26.Sony Att 
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1 ,27.Star Plus e2
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,28.Colors HD e2
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 ,29.Sony e2
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,30.Zee Tv hd e2
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,31.Sony SAB
+http://43.230.123.21:8080/live/sony-sab.m3u8
+#EXTINF:-1 ,32.Max HD e2
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,32.Max HD
+http://43.230.123.21:8080/live/sony-max.m3u8
+#EXTINF:-1 ,32.Max (ftpbd)
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 ,33.Star Gold HD e2
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,34.Star Gold hd
+http://43.230.123.21:8080/live/star-gold.m3u8
+#EXTINF:-1 ,35.Star Gold select
+http://43.230.123.21:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ,36.Zee Cenema e2
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,36.Zee Cenema hd
+http://43.230.123.21:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,37.& Picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1 ,38.Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1 ,39.UTV Action f
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 ,40.Nick e2
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,41.CN f
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 ,42.Animax
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 ,43.Sony Six f
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 ,44.Sky sports e2
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,45.Star sports Hindi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
+#EXTINF:-1 ,46.DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 ,47.starsports-1 ftpbd
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 ,48.starsports-e2
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,49.Star Sports 1 HD f
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 ,50.Star Sports 2 HD f
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 ,51.Star Sports 2 e2
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,52.Star Sports 3 e2
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 ,53.Star Sports Select 1 e2
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,54.Star Sports Select 2 f
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 ,55.Star Sports Select 2 e2
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,56.Star Sports 2 ftpbd
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 ,57.PTV Sports e2
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 ,58.Ten Sports e2
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 ,59.Pix e2
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 ,60.Star Movies e
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 ,61.Star Movies f
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 ,62.Enter 10 Bangla
+https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 ,63.Movies Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 ,64.Joy Jatra
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+#EXTINF:-1 ,65. itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,66. ATN UK
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0e
+#EXTINF:-1 ,65. SangeetBangla
+http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8?token=602e1f11a8be1a546ff4e9386614a8fedaa93676-2bd6ad2705ea89dbbf5c7d64640d0d9c-1617447985-1617437185
+#EXTINF:-1 ,65. 9xm
+http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=afeb3cf4b82bead9e539ffd4b2155bec9203767b-e32dcb139a36c0e9fff54dc10d012070-1617448367-1617437567

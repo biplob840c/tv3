@@ -2,17 +2,17 @@
 #EXTINF:-1 ,00.BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,00.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=c8e094c979c97b08c06e4d29dcf8498b7a14f26a-73b566704f5db1b847339441ca0dae34-1617448035-1617437235
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=f4dd3f6b40874943db2d16a397068961ed5c433b-ac74b8f432e5b424fd4ced42f4efaf33-1617465320-1617454520
 #EXTINF:-1 ,01.ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 ,02.Channel i
-http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=7fa3a63954646f96171ea23c6c5b7111186e3bc9-b98fbe84c737231bf804e0016b9641e7-1617448085-1617437285
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=77913c2e95245596e429972c40afb64a9e1c49ab-00659dd23af54c00ddacc3cbf0cfcfbc-1617465374-1617454574
 #EXTINF:-1 ,03.ETV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:-1 ,04.Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 ,04.NTV
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=2a980b60895749ba36d4bad7d8f1af1f21eba311-2542bd2e66ef1e126e8661913a466270-1617448106-1617437306
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=dda3a635d69d36007210773f6723dac5e4d541be-018383ce93bf3abc61abd177fc2df6f8-1617465403-1617454603
 #EXTINF:-1 ,05.RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 ,06.Masranga
@@ -50,7 +50,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 ,18.Jumuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,19.Channel 24
-http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=9397abfee4721d8bd031a93b0c99d317449225e4-fc5cf71c8c73522211a9462ad64f00da-1617448473-1617437673
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=1476d5e87c3d7c9019d2b0cf203be0665b833ae9-320295987100b7cedbd4eb5af9b50a90-1617465432-1617454632
 #EXTINF:-1 ,20.DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 ,21.Independent

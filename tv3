@@ -20,7 +20,7 @@ http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 ,06.Masranga 2
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 ,07.SA TV
-https://rhridoy136.shortcm.li/satv.m3u8
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8?token=d6438bb88ecccaf7485415d5f9205658ff24ded2-57eaa1e98f29b2a9b370cc0fc13f4a40-1617448498-1617437698
 #EXTINF:-1 ,08.Boyshakhi
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 ,08.GTV
@@ -38,7 +38,7 @@ http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=3820cdb2851760
 #EXTINF:-1 ,13.BIJOY TV HD [BD]
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8?token=01025423e07903b5d200aa234a2a8a3365555a5d-0f2be250223906364905cf46c9e9ae1e-1617448333-1617437533
 #EXTINF:-1 ,14.Bangla tv
-https://rhridoy136.shortcm.li/banglatv.m3u8
+http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8?token=0e719808eec749e6617012e2b81e5bd22410509e-fb13235cc83e9d661967a6cb3bc28aa9-1617448527-1617437727
 #EXTINF:-1 ,14.Mohona
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:-1 ,15.Ekattor
@@ -50,7 +50,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 ,18.Jumuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,19.Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=9397abfee4721d8bd031a93b0c99d317449225e4-fc5cf71c8c73522211a9462ad64f00da-1617448473-1617437673
 #EXTINF:-1 ,20.DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 ,21.Independent
